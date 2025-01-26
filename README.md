@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasBMir
 - 👀 I’m interested in learn more and more
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ... nothing rigth now kk
 - 📫 How to reach me: lucasbmir95@gmail.com
 - 😄 Pronouns: He, Him
